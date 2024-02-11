@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458982370973",
+    "project_id": "install-my-a-i-k1qs6w",
+    "storage_bucket": "install-my-a-i-k1qs6w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458982370973:android:1a1d458015a77f0375ae74",
+        "android_client_info": {
+          "package_name": "com.mycompany.installmyai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wY2YyZdr5ioIbQvOw5z8sBCcq6pJr7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
